@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-top: 0%;
+  color: white;
+  border: 1px solid #0b0c0a;
+  text-align: center;
+  background-color: #0d0e0d;
+}
+
+.todo-list {
+  margin-left: 25%;
+  width: 50%;
+  
+  background-color: #2f302d;
+  height: auto;
+ 
+ 
+}
+
+
+input[type=text]{
+  width: 75%;
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-decoration-thickness: auto;
+}
+
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 7px;
+  margin: 8px 2px;
+  border-radius: 10px;
+  border: none;
+  
+  cursor: pointer;
+  
+  height: auto;
+  width: auto;
+}
+button:hover {
+  opacity: 0.7;
+}
+.list-btn {
+  background-color: #04AA6D;
+ 
+}
+
+.Edit-btn {
+  background-color: #e40909;
+
+}
+
+
+
